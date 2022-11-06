@@ -1,5 +1,5 @@
 # Team-Intrepid
-## Land-Registration-System
+## Land-Registration-System-Using-Blockchain
 
 
 ## Contributors 
